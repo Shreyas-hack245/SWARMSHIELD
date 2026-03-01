@@ -26,15 +26,6 @@ Icons: Lucide-React / FontAwesome
 
 Design: Mobile-responsive, Gov-Tech professional aesthetic
 
-📂 Project Structure
-Plaintext
-├── index.html          # Landing Page & "How it Works"
-├── report.html         # Citizen Reporting Form
-├── dashboard.html      # Public Surveillance Grid
-├── officer.html        # Admin/Officer Cleanup Management
-├── assets/             # Images and Icons
-└── css/
-    └── style.css       # Unified modern styling
 📸 How It Works
 Capture: A citizen takes a photo of stagnant water.
 
