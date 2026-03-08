@@ -3,7 +3,7 @@ One Photo. One Report. One Step Closer to a Healthier Community.
 
 SWARMSHIELD is an AI-powered public health surveillance platform designed to combat vector-borne diseases like Dengue, Malaria, and Cholera. By empowering citizens to report stagnant water and high-risk areas, we bridge the gap between community awareness and government action.
 
-🚀 The Problem
+ The Problem
 Stagnant water is a silent killer. In urban and rural areas, undetected water logging becomes a breeding ground for mosquitoes and bacteria. Current reporting methods are slow, manual, and lack real-time tracking, leading to delayed sanitization and preventable outbreaks.
 
 ✨ Key Features
